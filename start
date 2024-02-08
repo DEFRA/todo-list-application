@@ -14,7 +14,7 @@ cd ../backend
 npm i
 
 # Start container and run in the background
-docker-compose up -d
+docker compose up -d
 
 # Open application on port 3000
 open http://localhost:3000
